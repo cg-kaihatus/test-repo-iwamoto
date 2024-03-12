@@ -53,6 +53,7 @@ public class NewsController {
 	}
 	
 	
+	
 	//NewsID指定での取得
 	@GetMapping("noticegetone/{strNo}")
 	@CrossOrigin(origins = "*")
